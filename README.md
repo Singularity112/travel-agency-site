@@ -2,4 +2,4 @@
 using Jquery
 
 
-![](https://media.giphy.com/media/l0ExjBp4ZkJLBD4D6/source.gif)
+![](http://i.giphy.com/l0ExjBp4ZkJLBD4D6.gif)
